@@ -11,9 +11,16 @@
     margin: 10px;
     font-size: 25px;
     color: white;
+    /* font-weight: bold; */
+}
 
+.nav-link img {
+    margin-left: 20px;
+    height: 80px;
+    border-radius: 50%;
 }
 
 .nav-link a:hover {
     color: orange;
+
 }

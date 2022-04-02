@@ -1,0 +1,10 @@
+.service-card {
+    background-color: rgb(26, 29, 32);
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.service-card:hover {
+    background-color: brown;
+}

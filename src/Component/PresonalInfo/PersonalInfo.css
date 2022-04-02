@@ -1,0 +1,23 @@
+.my-information {
+    margin-top: 50px;
+
+}
+
+.my-information h3 {
+    font-size: 50px;
+}
+
+.my-information h1:hover {
+    color: orange;
+
+}
+
+.img-style img {
+    border-radius: 20px;
+}
+
+
+
+.my-information h1 {
+    font-size: 60px;
+}
