@@ -1,0 +1,19 @@
+.nav-link {
+    padding: 20px;
+}
+
+.text-color {
+    color: rgb(255, 0, 0);
+}
+
+.nav-link a {
+    text-decoration: none;
+    margin: 10px;
+    font-size: 25px;
+    color: white;
+
+}
+
+.nav-link a:hover {
+    color: orange;
+}
